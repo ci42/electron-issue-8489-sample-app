@@ -1,0 +1,12 @@
+{
+    "name": "electron-issue-8489-sample-app",
+    "description": "Minimal sample application for electron issue #8489",
+    "main": "main.js",
+    "scripts": {
+	"start": "electron ."
+    },
+    "repository": "https://github.com/ci42/electron-issue-8489-sample-app",
+    "devDependencies": {
+	"electron": "1.6.1"
+    }
+}
